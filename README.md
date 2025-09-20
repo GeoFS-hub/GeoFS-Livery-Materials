@@ -18,8 +18,6 @@ Thanks for GeoFS Explorer for making this discord server!
 
 </div>
 <p align="center">
-🤗 <a href="https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B" target="_blank">HuggingFace</a> ｜
-<img src="./assets/tongyi.png" width="14px" style="display:inline;"> <a href="https://modelscope.cn/models/iic/Tongyi-DeepResearch-30B-A3B" target="_blank">ModelScope</a>
 <p align="center">
 <a href="https://trendshift.io/repositories/14217" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14217" 
 alt="Alibaba-NLP%2FWebAgent | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
