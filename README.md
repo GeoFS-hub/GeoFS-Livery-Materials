@@ -1,7 +1,4 @@
 # GeoFS-Livery-Materials
-## Offical Discord: [Discord](https://www.discord.gg/sKYkgCMtM9)
-Thanks for GeoFS Explorer for making this discord server!
-
 <div align="center" style="line-height: 1;">
   
 [![DISCORD](https://img.shields.io/badge/Discord-5EDDD2?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor])](https://www.discord.gg/sKYkgCMtM9)
