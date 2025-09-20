@@ -1,12 +1,12 @@
 # GeoFS-Livery-Materials
-## Offical Discord: [Discord](https://www.discord.gg/PUrgRZ3N3N)
+## Offical Discord: [Discord](https://www.discord.gg/sKYkgCMtM9)
 Thanks for GeoFS Explorer for making this discord server!
 
 <div>
   
-[![MODELS](https://img.shields.io/badge/Models-5EDDD2?style=for-the-badge&logo=huggingface&logoColor=ffffff&labelColor)](https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B)
+[![DISCORD]([https://img.shields.io/badge/Discord-5EDDD2?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor])](https://www.discord.gg/sKYkgCMtM9)
 [![GITHUB](https://img.shields.io/badge/Github-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeoFS-hub/GeoFS-Livery-Materials)
-[![Blog](https://img.shields.io/badge/Blog-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://www.discord.gg/PUrgRZ3N3N])
+[![BLOG](https://img.shields.io/badge/Blog-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://www.discord.gg/PUrgRZ3N3N])
 
 
 </div>
