@@ -2,16 +2,6 @@
 ## Offical Discord: [Discord](https://www.discord.gg/PUrgRZ3N3N)
 Thanks for GeoFS Explorer for making this discord server!
 
-<div align="center">
-  <picture>
-      <img src="./assets/logo.png" width="100%">
-  </picture>
-</div>
-
-<hr>
-
-<div align="center" style="line-height: 1;">
-
 [![MODELS](https://img.shields.io/badge/Models-5EDDD2?style=for-the-badge&logo=huggingface&logoColor=ffffff&labelColor)](https://huggingface.co/Alibaba-NLP/Tongyi-DeepResearch-30B-A3B)
 [![GITHUB](https://img.shields.io/badge/Github-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alibaba-NLP/DeepResearch)
 [![Blog](https://img.shields.io/badge/Blog-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
