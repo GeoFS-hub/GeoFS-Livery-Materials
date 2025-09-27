@@ -4,6 +4,7 @@
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=ffffff&labelColor])](https://www.discord.gg/sKYkgCMtM9/)
 [![GITHUB](https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeoFS-hub/GeoFS-Livery-Materials/)
 [![YOUTUBE](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@geofsexplorer/)
+[![BILIBILI](https://img.shields.io/badge/Bilibili-34D0F4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546653126560594/)
 
 
 </div>
